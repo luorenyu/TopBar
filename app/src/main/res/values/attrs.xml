@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--在该文件中定义我们要的相应的属性-->
+<resources>
+    <declare-styleable name="TopBar">
+        <attr name="myTitle" format="string"/>
+        <attr name="myTitleTextSize" format="dimension"/>
+        <attr name="myTitleTextColor" format="color"/>
+        <attr name="leftTextColor" format="color"/>
+        <attr name="leftBackground" format="reference|color"/>
+        <attr name="leftText" format="string"/>
+        <attr name="rightTextColor" format="color"/>
+        <attr name="rightBackground" format="reference|color"/>
+        <attr name="rightText" format="string"/>
+    </declare-styleable>
+
+</resources>
